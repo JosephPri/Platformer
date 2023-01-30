@@ -1,0 +1,17 @@
+FUNCTIONIZE AND "SLEEKIFY" CODE
+
+make water more dynamic (set gravity lower and jump velocity lower)
+
+drowning?
+
+mode framework
+
+background paralax
+
+moving platforms
+
+sound effects
+
+health at top left ---> oxygen bubbles shown when in water
+
+checkpoint flags
